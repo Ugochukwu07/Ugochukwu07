@@ -15,18 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ugochukwu Ekwueme</h1>
-<h3 align="center">Student at NAU, Nigeria🌟.</h3>
+<h3 align="center">Currently a student at the NAU, Nigeria🌟.</h3>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Ugochukwu07&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right">
+    <h3>Profile Views :-</h3>
+    <img src="https://komarev.com/ghpvc/?username=Ugochukwu07&label=Profile%20views&color=0e75b6&style=flat" alt="Ugochukwu" /> 
   </p>
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Ugochukwu07" /></p>
-<p>I'm an experienced full stack web developer with over 5 years of experience. I love nature, and I'm always looking for new ways to enjoy the outdoors. I'm also passionate about helping others learn and grow, which is why I'm always happy to share my knowledge with others. If you're looking for a web developer who can help you create a beautiful and user-friendly website, then I'm your guy!</p>
+<p>As a seasoned full-stack web developer with over 5 years of experience, I bring a passion for both technology and the great outdoors to my work. My drive to continuously learn and grow, combined with my love of helping others do the same, makes me a valuable asset to any project. I specialize in creating visually appealing and user-friendly websites, and I would be honored to bring my expertise to your next project.</p>
 
 - 🌱 I’m currently learning App Development and other programming languages
 
