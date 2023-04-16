@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Ugochukwu07" /></p>
+<p><img width="200px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Ugochukwu07" /></p>
 <p>As a seasoned full-stack web developer with over 5 years of experience, I bring a passion for both technology and the great outdoors to my work. My drive to continuously learn and grow, combined with my love of helping others do the same, makes me a valuable asset to any project. I specialize in creating visually appealing and user-friendly websites, and I would be honored to bring my expertise to your next project.</p>
 
 - 🌱 I’m currently learning App Development and other programming languages
@@ -123,8 +123,9 @@ Here are some ideas to get you started:
     alt="adam-pw" /></p>
 
 <br>
-
+<center>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ugochukwu07&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Ugochukwu07" /></p>
+    </center>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
