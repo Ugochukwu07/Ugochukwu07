@@ -40,8 +40,9 @@ Here are some ideas to get you started:
 <br>
 
 ### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR)
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-gamma-bay.vercel.app/api?theme=dark&spin=true" alt="Current Spotify Song">
+</a>
 
 ---
 <br>
