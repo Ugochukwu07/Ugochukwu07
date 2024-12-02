@@ -122,11 +122,15 @@ Here are some ideas to get you started:
     alt="Ugochukwu07" /></p>
 
 <br>
-<!-- <p><img width="100% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ugochukwu07&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Ugochukwu07" /></p> -->
+<p><img width="100% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ugochukwu07&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Ugochukwu07" /></p>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Ugochukwu07&theme=dark)](https://git.io/streak-stats) -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ugochukwu07&theme=dark" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ugochukwu07&theme=dark" alt="GitHub Streak" /></a> -->
       
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left">
+    <a href="https://twitter.com/" target="blank">
+        <svg viewBox="0 0 24 24" aria-hidden="true" class="r-4qtqp9 r-yyyyoo r-dnmrzs r-bnwqim r-lrvibr r-m6rgpd r-lrsllp r-1nao33i r-16y2uox r-8kz0gk"><g><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></g></svg>
+<!--         <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /> -->
+    </a>
+</p>
 
 [Ugochukwu07](https://github.com/Ugochukwu07)
