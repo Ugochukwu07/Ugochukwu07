@@ -123,7 +123,8 @@ Here are some ideas to get you started:
 
 <br>
 <!-- <p><img width="100% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ugochukwu07&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Ugochukwu07" /></p> -->
-<p><img width="100% align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Ugochukwu07&theme=dark)](https://git.io/streak-stats)" alt="Ugochukwu07" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ugochukwu07&theme=dark)](https://git.io/streak-stats)
+<!-- <p><img width="100% align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Ugochukwu07&theme=dark)](https://git.io/streak-stats)" alt="Ugochukwu07" /></p> -->
 
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
